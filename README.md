@@ -30,7 +30,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [Lecture: Implicit Neural Scene Representations](https://www.youtube.com/watch?v=__F9CCqbWQk) <br> Vincent Sitzmann <br> *TUM AI Lecture Series, 2020*
 
-[Seminar: Neural Rendering(https://www.youtube.com/watch?v=LCTYRqW-ne8) <br> *CVPR, 2020* | [Morning session](https://www.youtube.com/watch?v=LCTYRqW-ne8) | [Afternoon session](https://www.youtube.com/watch?v=JlyGNvbGKB8)
+[Seminar: Neural Rendering](https://www.youtube.com/watch?v=LCTYRqW-ne8) <br> *CVPR, 2020* | [Morning session](https://www.youtube.com/watch?v=LCTYRqW-ne8) | [Afternoon session](https://www.youtube.com/watch?v=JlyGNvbGKB8)
 
 [Seminar: Why Neural Rendering is Super Cool!](https://www.youtube.com/watch?v=-KGZmzP4P1I) <br> Matthias Niessner <br> *MIT CSAIL, 2020*
 

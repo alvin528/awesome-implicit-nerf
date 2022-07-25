@@ -23,6 +23,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 - [NeRF Papers](#nerf-papers)
   - [Improved training speed](#improved-training-speed)
   - [Unknown camera poses](#unknown-camera-poses)
+  - [Unbounded, large-scale scenes](#unbounded,-large-scale-scenes)
 
 
 ## Survey
@@ -75,8 +76,25 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://arxiv.org/abs/2204.05735) <br> Shin-Fang Chng, Sameera Ramasinghe, Jamie Sherrah, Simon Lucey <br> *Arxiv, 2022* | [Project page](https://sfchng.github.io/garf/) | [Github](https://github.com/sfchng/Gaussian-Activated-Radiance-Fields)
 
+[BARF: Bundle-Adjusting Neural Radiance Fields](https://arxiv.org/abs/2104.06405) <br> Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey <br> *ICCV, 2021* | [Project page](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/) | [Github](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)
+
 [Self-Calibrating Neural Radiance Fields](https://arxiv.org/abs/2108.13826) <br> Yoonwoo Jeong, Seokjun Ahn, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park <br> *ICCV, 2021* | [Project page](https://postech-cvlab.github.io/SCNeRF/) | [Github](https://github.com/POSTECH-CVLab/SCNeRF) | [Video](https://www.youtube.com/watch?v=wsjx6geduvk)
 
 [GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606) <br> Quan Meng, Anpei Chen, Haimin Luo, Minye Wu, Hao Su, Lan Xu, Xuming He, Jingyi Yu <br> *ICCV, 2021* | [Github](https://github.com/quan-meng/gnerf)
 
 [NeRF--: Neural Radiance Fields Without Known Camera Parameters](https://arxiv.org/abs/2102.07064) <br> Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu <br> *Arxiv, 2021* | [Project page](https://nerfmm.active.vision/) | [Github](https://github.com/ActiveVisionLab/nerfmm)
+
+
+### Unbounded, large-scale scenes
+
+[Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/abs/2111.12077) <br> Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman <br> *CVPR, 2022* | [Project page](https://jonbarron.info/mipnerf360/) | [Video](https://www.youtube.com/watch?v=zBSH-k9GbV4)
+
+[Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/abs/2202.05263) <br> Matthew Tancik, Vincent Casser, Xinchen Yan, Sabeek Pradhan, Ben Mildenhall, Pratul P. Srinivasan, Jonathan T. Barron, Henrik Kretzschmar <br> *CVPR, 2022* | [Project page](https://waymo.com/research/block-nerf/) | [Video](https://www.youtube.com/watch?v=6lGMCAzBzOQ)
+
+[NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2203.11283) <br> Xiaoshuai Zhang, Sai Bi, Kalyan Sunkavalli, Hao Su, Zexiang Xu <br> *CVPR, 2022* | [Video](https://www.youtube.com/watch?v=BfrYuDv179Y)
+
+[CityNeRF: Building NeRF at City Scale](https://arxiv.org/abs/2112.05504) <br> Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, Dahua Lin <br> *ECCV, 2022* | [Project page](https://city-super.github.io/citynerf/) | [Github](https://github.com/city-super/BungeeNeRF)
+
+[Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://arxiv.org/abs/2112.10703) <br> Haithem Turki, Deva Ramanan, Mahadev Satyanarayanan <br> *CVPR, 2022* | [Project page](https://meganerf.cmusatyalab.org/) | [Github](https://github.com/cmusatyalab/mega-nerf)
+
+[Urban Radiance Fields](https://arxiv.org/abs/2111.14643) <br> Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari <br> *CVPR, 2022* | [Project page](https://urban-radiance-fields.github.io/) | [Video](https://www.youtube.com/watch?v=B973fam8Bag)

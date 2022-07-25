@@ -23,7 +23,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 - [NeRF Papers](#nerf-papers)
   - [Improved training speed](#improved-training-speed)
   - [Unknown camera poses](#unknown-camera-poses)
-  - [Unbounded, large-scale scenes](#unbounded,-large-scale-scenes)
+  - [Unbounded, large-scale scenes](#unbounded-large-scale-scenes)
 
 
 ## Survey

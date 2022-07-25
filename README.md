@@ -74,8 +74,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261) <br> Huan Wang, Jian Ren, Zeng Huang, Kyle Olszewski, Menglei Chai, Yun Fu, Sergey Tulyakov <br> *ECCV 2022 * | [Project page](https://snap-research.github.io/R2L/) | [Github](https://github.com/snap-research/r2l)
 
-[NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696) <br> Zhi-Hao Lin, Wei-Chiu Ma, Hao-Yu Hsu, Yu-Chiang Frank Wang, Shenlong Wang <br> *CVPR 2022* | [Project page](link) | [Github](link) | Additional links ...
-[title](link_to_pdf) <br> authors <br> *conference, year* | [Project page](https://zhihao-lin.github.io/neurmips/) | [Github](https://github.com/zhihao-lin/neurmips) | [Video](https://www.youtube.com/watch?v=PV1dCTWL5Oo)
+[NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696) <br> Zhi-Hao Lin, Wei-Chiu Ma, Hao-Yu Hsu, Yu-Chiang Frank Wang, Shenlong Wang <br> *CVPR 2022* | [Project page](https://zhihao-lin.github.io/neurmips/) | [Github](https://github.com/zhihao-lin/neurmips) | [Video](https://www.youtube.com/watch?v=PV1dCTWL5Oo)
 
 [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427) <br> Liwen Wu, Jae Yong Lee, Anand Bhattad, Yuxiong Wang, David Forsyth <br> *CVPR, 2022* | [Github](https://github.com/lwwu2/diver) | [Video](https://www.youtube.com/watch?v=jt9sLxc46P8)
 
@@ -101,10 +100,8 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571) <br> Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt <br> *NeurIPS, 2020* | [Project page](https://lingjie0206.github.io/papers/NSVF/) | [Github](https://github.com/facebookresearch/NSVF) | [Video](https://www.youtube.com/watch?v=RFqPwH7QFEI)
 
-
 [SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585) <br> Krishna Wadhwani, Tamaki Kojima <br> *Arxiv 2022*
 
-[title](link_to_pdf) <br> authors <br> *conference year* | [Project page](link) | [Github](link) | Additional links ...
 
 ### Unknown camera poses
 

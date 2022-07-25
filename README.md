@@ -3,6 +3,7 @@
 
 A curated list of NeRF-related projects. This long-term maintained repo is frequently updated and contains latest works on NeRF (including tutorials, lectures, papers, codebases). Stay tuned!
 
+
 ## Contributing
 If you have any suggestions, feel free to send [pull requests](https://github.com/salykovaa/awesome-nerf/pulls)! Modify the `README.md` and follow the format
 ``` 
@@ -15,10 +16,14 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 <br>
 *ACM Transactions on Graphics (SIGGRAPH), 2022* | [Project page](https://nvlabs.github.io/instant-ngp/) | [Github](https://github.com/NVlabs/instant-ngp)
 
+
 ## Table of contents
 - [Survey](#survey)
 - [NeRF Introduction](#nerf-introduction)
-- [Improved training speed](#improved-training-speed)
+- [NeRF Papers](#nerf-papers)
+  - [Improved training speed](#improved-training-speed)
+  - [Unknown camera poses](#unknown-camera-poses)
+
 
 ## Survey
 [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426) <br> Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar <br> *Computer Graphics Forum (Eurographics 2022)* | [Project page](https://neuralfields.cs.brown.edu/) | [Recording](https://www.youtube.com/watch?v=hr2WQCs_P78)
@@ -35,6 +40,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [Seminar: Why Neural Rendering is Super Cool!](https://www.youtube.com/watch?v=-KGZmzP4P1I) <br> Matthias Niessner <br> *MIT CSAIL, 2020*
 
+
 ## NeRF Introduction
 [Lecture: Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=nRyOzHpcr4Q) <br> Jon Barron <br> *TUM AI Lecture Series, 2020*
 
@@ -46,7 +52,10 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [Computer Graphics and Deep Learning with NeRF using TensorFlow and Keras](https://pyimagesearch.com/2021/11/10/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-1/) <br> Aritra Roy Gosthipaty and Ritwik Raha <br> *PyImageSearch, 2021* | [Part 1](https://pyimagesearch.com/2021/11/10/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-1/) | [Part 2](https://pyimagesearch.com/2021/11/17/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-2/)
 
-## Improved training speed
+
+## NeRF Papers
+### Improved training speed
+
 [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) <br> Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller <br> *ACM Transactions on Graphics (SIGGRAPH), 2022* | [Project page](https://nvlabs.github.io/instant-ngp/) | [Github](https://github.com/NVlabs/instant-ngp)
 
 [TensoRF: Tensorial Radiance Fields](https://arxiv.org/abs/2203.09517) <br> Anpei Chen, Zexiang Xu, Andreas Geiger, Jingyi Yu, Hao Su <br> *ECCV, 2022* | [Project page](https://apchenstu.github.io/TensoRF/) | [Github](https://github.com/apchenstu/TensoRF) | [Video](https://www.youtube.com/watch?v=ujOMgaKV3lA)
@@ -60,3 +69,14 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 [EfficientNeRF: Efficient Neural Radiance Fields](https://arxiv.org/abs/2206.00878) <br> Tao Hu, Shu Liu, Yilun Chen, Tiancheng Shen, Jiaya Jia <br> *CVPR, 2022* | [Github](https://github.com/dvlab-research/efficientnerf) | Additional links ...
 
 [PREF: Phasorial Embedding Fields for Compact Neural Representations](https://arxiv.org/abs/2205.13524) <br> Binbin Huang, Xinhao Yan, Anpei Chen, Shenghua Gao, Jingyi Yu <br> *Arxiv, 2022* | [Github](https://github.com/hbb1/PREF)
+
+
+### Unknown camera poses
+
+[GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://arxiv.org/abs/2204.05735) <br> Shin-Fang Chng, Sameera Ramasinghe, Jamie Sherrah, Simon Lucey <br> *Arxiv, 2022* | [Project page](https://sfchng.github.io/garf/) | [Github](https://github.com/sfchng/Gaussian-Activated-Radiance-Fields)
+
+[Self-Calibrating Neural Radiance Fields](https://arxiv.org/abs/2108.13826) <br> Yoonwoo Jeong, Seokjun Ahn, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park <br> *ICCV, 2021* | [Project page](https://postech-cvlab.github.io/SCNeRF/) | [Github](https://github.com/POSTECH-CVLab/SCNeRF) | [Video](https://www.youtube.com/watch?v=wsjx6geduvk)
+
+[GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606) <br> Quan Meng, Anpei Chen, Haimin Luo, Minye Wu, Hao Su, Lan Xu, Xuming He, Jingyi Yu <br> *ICCV, 2021* | [Github](https://github.com/quan-meng/gnerf)
+
+[NeRF--: Neural Radiance Fields Without Known Camera Parameters](https://arxiv.org/abs/2102.07064) <br> Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu <br> *Arxiv, 2021* | [Project page](https://nerfmm.active.vision/) | [Github](https://github.com/ActiveVisionLab/nerfmm)

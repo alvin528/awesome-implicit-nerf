@@ -1,7 +1,7 @@
 # Awesome Neural Radiance Fields [NeRF] 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of NeRF-related projects. This long-term maintained repo is frequently updated and contains latest works. Stay tuned!
+A curated list of NeRF-related and Implicit Neural Representation projects. This long-term maintained repo is frequently updated and contains latest works (including tutorials, introduction videos). Stay tuned!
 
 ## Contributing
 If you have any suggestions, feel free to send [pull requests](https://github.com/salykovaa/awesome-nerf/pulls)! Modify the `README.md` and follow the format
@@ -33,3 +33,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 [NeRF: Neural Radiance Fields (10 min talk)](https://www.youtube.com/watch?v=LRAqeM8EjOo) <br> Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng <br> *ECCV, 2020*
 
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ML Research Paper Explained)](https://www.youtube.com/watch?v=CRlN-cYFxTk) <br> Yannic Kilcher <br> *2021*
+
+[It’s NeRF From Nothing: Build A Complete NeRF with PyTorch](https://towardsdatascience.com/its-nerf-from-nothing-build-a-vanilla-nerf-with-pytorch-7846e4c45666) <br> Mason McGough <br> *Article from [towardsdatascience.com](https://towardsdatascience.com), 2021*
+
+[Computer Graphics and Deep Learning with NeRF using TensorFlow and Keras](https://pyimagesearch.com/2021/11/10/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-1/) <br> Aritra Roy Gosthipaty and Ritwik Raha <br> *PyImageSearch, 2021* | [Part 1](https://pyimagesearch.com/2021/11/10/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-1/) | [Part 2](https://pyimagesearch.com/2021/11/17/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-2/)

@@ -53,7 +53,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845) <br> Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann <br> *CVPR, 2022* | [Project page](https://xharlie.github.io/projects/project_sites/pointnerf/index.html) | [Github](https://github.com/Xharlie/pointnerf) | [Video](https://www.youtube.com/watch?v=zmR9j-4AebA)
 
-[Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215) <br> authors <br> *CVPR, 2022* | [Project page](https://sunset1995.github.io/dvgo/) | [Github](https://github.com/sunset1995/directvoxgo) | [Video](https://www.youtube.com/watch?v=gLmujfjRVGw)
+[Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215) <br> Cheng Sun, Min Sun, Hwann-Tzong Chen <br> *CVPR, 2022* | [Project page](https://sunset1995.github.io/dvgo/) | [Github](https://github.com/sunset1995/directvoxgo) | [Video](https://www.youtube.com/watch?v=gLmujfjRVGw)
 
 [Plenoxels: Radiance Fields without Neural Networks](https://arxiv.org/abs/2112.05131) <br> Alex Yu, Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin Recht, Angjoo Kanazawa <br> *CVPR, 2022* | [Project page](https://alexyu.net/plenoxels/) | [Github](https://github.com/sxyu/svox2) | [Video](https://www.youtube.com/watch?v=KCDd7UFO1d0)
 

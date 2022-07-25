@@ -59,4 +59,4 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [EfficientNeRF: Efficient Neural Radiance Fields](https://arxiv.org/abs/2206.00878) <br> Tao Hu, Shu Liu, Yilun Chen, Tiancheng Shen, Jiaya Jia <br> *CVPR, 2022* | [Github](https://github.com/dvlab-research/efficientnerf) | Additional links ...
 
-[PREF: Phasorial Embedding Fields for Compact Neural Representations](https://arxiv.org/abs/2205.13524) <br> Binbin Huang, Xinhao Yan, Anpei Chen, Shenghua Gao, Jingyi Yu <br> *conference, year* | [Github](https://github.com/hbb1/PREF)
+[PREF: Phasorial Embedding Fields for Compact Neural Representations](https://arxiv.org/abs/2205.13524) <br> Binbin Huang, Xinhao Yan, Anpei Chen, Shenghua Gao, Jingyi Yu <br> *Arxiv, 2022* | [Github](https://github.com/hbb1/PREF)

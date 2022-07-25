@@ -20,12 +20,19 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 - [NeRF Introduction](#nerf-introduction)
 
 ## Survey
-[Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) <br> Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik <br> *SIGGRAPH, 2021* | [Recording: part 1](https://www.youtube.com/watch?v=otly9jcZ0Jg) | [Recording: part 2](https://www.youtube.com/watch?v=aboFl5ozImM)
-
 [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426) <br> Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar <br> *Computer Graphics Forum (Eurographics 2022)* | [Project page](https://neuralfields.cs.brown.edu/) | [Recording](https://www.youtube.com/watch?v=hr2WQCs_P78)
+
+[Lecture: Neural Scene Representation, Rendering, and Generation](https://www.youtube.com/watch?v=0KslwGsI9X8) <br> Gordon Wetzstein <br> *TUM AI Lecture Series, 2022*
+
+[Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) <br> Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik <br> *SIGGRAPH, 2021* | [Recording: part 1](https://www.youtube.com/watch?v=otly9jcZ0Jg) | [Recording: part 2](https://www.youtube.com/watch?v=aboFl5ozImM)
 
 [Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204) <br> Frank Dellaert, Lin Yen-Chen <br> *Arxiv, 2021*
 
+[Lecture: Implicit Neural Scene Representations](https://www.youtube.com/watch?v=__F9CCqbWQk) <br> Vincent Sitzmann <br> *TUM AI Lecture Series, 2020*
+
+[Seminar: Neural Rendering(https://www.youtube.com/watch?v=LCTYRqW-ne8) <br> *CVPR, 2020* | [Morning session](https://www.youtube.com/watch?v=LCTYRqW-ne8) | [Afternoon session](https://www.youtube.com/watch?v=JlyGNvbGKB8)
+
+[Seminar: Why Neural Rendering is Super Cool!](https://www.youtube.com/watch?v=-KGZmzP4P1I) <br> Matthias Niessner <br> *MIT CSAIL, 2020*
 
 ## NeRF Introduction
 [Lecture: Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=nRyOzHpcr4Q) <br> Jon Barron <br> *TUM AI Lecture Series, 2020*

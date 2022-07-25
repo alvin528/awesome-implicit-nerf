@@ -78,6 +78,8 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427) <br> Liwen Wu, Jae Yong Lee, Anand Bhattad, Yuxiong Wang, David Forsyth <br> *CVPR, 2022* | [Github](https://github.com/lwwu2/diver) | [Video](https://www.youtube.com/watch?v=jt9sLxc46P8)
 
+[SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585) <br> Krishna Wadhwani, Tamaki Kojima <br> *Arxiv 2022*
+
 [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) <br> Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller <br> *ACM Transactions on Graphics (SIGGRAPH), 2022* | [Project page](https://nvlabs.github.io/instant-ngp/) | [Github](https://github.com/NVlabs/instant-ngp)
 
 [Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845) <br> Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann <br> *CVPR, 2022* | [Project page](https://xharlie.github.io/projects/project_sites/pointnerf/index.html) | [Github](https://github.com/Xharlie/pointnerf) | [Video](https://www.youtube.com/watch?v=zmR9j-4AebA)
@@ -99,8 +101,6 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 [NeuSample: Neural Sample Field for Efficient View Synthesis](https://arxiv.org/abs/2111.15552) <br> Jiemin Fang, Lingxi Xie, Xinggang Wang, Xiaopeng Zhang, Wenyu Liu, Qi Tian <br> *Arxiv, 2021*
 
 [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571) <br> Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt <br> *NeurIPS, 2020* | [Project page](https://lingjie0206.github.io/papers/NSVF/) | [Github](https://github.com/facebookresearch/NSVF) | [Video](https://www.youtube.com/watch?v=RFqPwH7QFEI)
-
-[SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585) <br> Krishna Wadhwani, Tamaki Kojima <br> *Arxiv 2022*
 
 
 ### Unknown camera poses

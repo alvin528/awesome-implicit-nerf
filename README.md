@@ -7,14 +7,14 @@ A curated list of NeRF-related projects. This long-term maintained repo is frequ
 ## Contributing
 If you have any suggestions, feel free to send [pull requests](https://github.com/salykovaa/awesome-nerf/pulls)! Modify the `README.md` and follow the format
 ``` 
-[title](link_to_pdf) <br> authors <br> *conference, year* | [Project page](link) | [Github](link) | Additional links ...
+[title](link_to_pdf) <br> authors <br> *conference year* | [Project page](link) | [Github](link) | Additional links ...
 ``` 
 
 [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989)
 <br>
 Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 <br>
-*ACM Transactions on Graphics (SIGGRAPH), 2022* | [Project page](https://nvlabs.github.io/instant-ngp/) | [Github](https://github.com/NVlabs/instant-ngp)
+*ACM Transactions on Graphics (SIGGRAPH) 2022* | [Project page](https://nvlabs.github.io/instant-ngp/) | [Github](https://github.com/NVlabs/instant-ngp)
 
 
 ## Table of contents
@@ -22,8 +22,10 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 - [NeRF Introduction](#nerf-introduction)
 - [NeRF Papers](#nerf-papers)
   - [Improved training speed](#improved-training-speed)
+  - [Improved rendering speed](#improved-rendering-speed)
   - [Unknown camera poses](#unknown-camera-poses)
   - [Unbounded, large-scale scenes](#unbounded-large-scale-scenes)
+  - [Transparent objects](#transparent-objects)
 
 
 ## Survey
@@ -63,14 +65,46 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 
 [Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845) <br> Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann <br> *CVPR, 2022* | [Project page](https://xharlie.github.io/projects/project_sites/pointnerf/index.html) | [Github](https://github.com/Xharlie/pointnerf) | [Video](https://www.youtube.com/watch?v=zmR9j-4AebA)
 
-[Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215) <br> Cheng Sun, Min Sun, Hwann-Tzong Chen <br> *CVPR, 2022* | [Project page](https://sunset1995.github.io/dvgo/) | [Github](https://github.com/sunset1995/directvoxgo) | [Video](https://www.youtube.com/watch?v=gLmujfjRVGw)
-
-[Plenoxels: Radiance Fields without Neural Networks](https://arxiv.org/abs/2112.05131) <br> Alex Yu, Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin Recht, Angjoo Kanazawa <br> *CVPR, 2022* | [Project page](https://alexyu.net/plenoxels/) | [Github](https://github.com/sxyu/svox2) | [Video](https://www.youtube.com/watch?v=KCDd7UFO1d0)
-
-[EfficientNeRF: Efficient Neural Radiance Fields](https://arxiv.org/abs/2206.00878) <br> Tao Hu, Shu Liu, Yilun Chen, Tiancheng Shen, Jiaya Jia <br> *CVPR, 2022* | [Github](https://github.com/dvlab-research/efficientnerf) | Additional links ...
+[EfficientNeRF: Efficient Neural Radiance Fields](https://arxiv.org/abs/2206.00878) <br> Tao Hu, Shu Liu, Yilun Chen, Tiancheng Shen, Jiaya Jia <br> *CVPR, 2022* | [Github](https://github.com/dvlab-research/efficientnerf)
 
 [PREF: Phasorial Embedding Fields for Compact Neural Representations](https://arxiv.org/abs/2205.13524) <br> Binbin Huang, Xinhao Yan, Anpei Chen, Shenghua Gao, Jingyi Yu <br> *Arxiv, 2022* | [Github](https://github.com/hbb1/PREF)
 
+
+### Improved rendering speed
+
+[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261) <br> Huan Wang, Jian Ren, Zeng Huang, Kyle Olszewski, Menglei Chai, Yun Fu, Sergey Tulyakov <br> *ECCV 2022 * | [Project page](https://snap-research.github.io/R2L/) | [Github](https://github.com/snap-research/r2l)
+
+[NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696) <br> Zhi-Hao Lin, Wei-Chiu Ma, Hao-Yu Hsu, Yu-Chiang Frank Wang, Shenlong Wang <br> *CVPR 2022* | [Project page](link) | [Github](link) | Additional links ...
+[title](link_to_pdf) <br> authors <br> *conference, year* | [Project page](https://zhihao-lin.github.io/neurmips/) | [Github](https://github.com/zhihao-lin/neurmips) | [Video](https://www.youtube.com/watch?v=PV1dCTWL5Oo)
+
+[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427) <br> Liwen Wu, Jae Yong Lee, Anand Bhattad, Yuxiong Wang, David Forsyth <br> *CVPR, 2022* | [Github](https://github.com/lwwu2/diver) | [Video](https://www.youtube.com/watch?v=jt9sLxc46P8)
+
+[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) <br> Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller <br> *ACM Transactions on Graphics (SIGGRAPH), 2022* | [Project page](https://nvlabs.github.io/instant-ngp/) | [Github](https://github.com/NVlabs/instant-ngp)
+
+[Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845) <br> Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann <br> *CVPR, 2022* | [Project page](https://xharlie.github.io/projects/project_sites/pointnerf/index.html) | [Github](https://github.com/Xharlie/pointnerf) | [Video](https://www.youtube.com/watch?v=zmR9j-4AebA)
+
+[EfficientNeRF: Efficient Neural Radiance Fields](https://arxiv.org/abs/2206.00878) <br> Tao Hu, Shu Liu, Yilun Chen, Tiancheng Shen, Jiaya Jia <br> *CVPR, 2022* | [Github](https://github.com/dvlab-research/efficientnerf)
+
+[PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024) <br> Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, Angjoo Kanazawa <br> *ICCV 2021* | [Project page](https://alexyu.net/plenoctrees/) | [Github](https://github.com/sxyu/volrend) | [Video](https://www.youtube.com/watch?v=obrmH1T5mfI)
+
+[AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) <br> David B. Lindell, Julien N. P. Martel, Gordon Wetzstein <br> *CVPR, 2021* | [Project page](http://www.computationalimaging.org/publications/automatic-integration/) | [Github](https://github.com/computational-imaging/automatic-integration) | [Video](https://www.youtube.com/watch?v=GYxFYbih0PU)
+
+[FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380) <br> Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin <br> *Arxiv, 2021* | [Project page](https://microsoft.github.io/FastNeRF/) | [Video](https://www.youtube.com/watch?v=JS5H-Usiphg)
+
+[NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606) <br> Suttisak Wizadwongsa, Pakkapon Phongthawee, Jiraphon Yenphraphai, Supasorn Suwajanakorn <br> *CVPR 2021* | [Project page](https://nex-mpi.github.io/) | [Github](https://github.com/nex-mpi/nex-code/) | [Video](https://www.youtube.com/watch?v=HyfkF7Z-ddA)
+
+[KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/abs/2103.13744) <br> Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger <br> *Arxiv, 2021* | [Project page](https://creiser.github.io/kilonerf/) | [Github](https://github.com/creiser/kilonerf) | [Video](https://www.youtube.com/watch?v=PNh0LvMpovU)
+
+[Baking Neural Radiance Fields for Real-Time View Synthesis](https://arxiv.org/abs/2103.14645) <br> Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec <br> *ICCV 2021* | [Project page](https://phog.github.io/snerg/) | [Github](https://github.com/google-research/google-research/tree/master/snerg) | [Video](https://www.youtube.com/watch?v=5jKry8n5YO8)
+
+[NeuSample: Neural Sample Field for Efficient View Synthesis](https://arxiv.org/abs/2111.15552) <br> Jiemin Fang, Lingxi Xie, Xinggang Wang, Xiaopeng Zhang, Wenyu Liu, Qi Tian <br> *Arxiv, 2021*
+
+[Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571) <br> Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt <br> *NeurIPS, 2020* | [Project page](https://lingjie0206.github.io/papers/NSVF/) | [Github](https://github.com/facebookresearch/NSVF) | [Video](https://www.youtube.com/watch?v=RFqPwH7QFEI)
+
+
+[SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585) <br> Krishna Wadhwani, Tamaki Kojima <br> *Arxiv 2022*
+
+[title](link_to_pdf) <br> authors <br> *conference year* | [Project page](link) | [Github](link) | Additional links ...
 
 ### Unknown camera poses
 
@@ -98,3 +132,10 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://arxiv.org/abs/2112.10703) <br> Haithem Turki, Deva Ramanan, Mahadev Satyanarayanan <br> *CVPR, 2022* | [Project page](https://meganerf.cmusatyalab.org/) | [Github](https://github.com/cmusatyalab/mega-nerf)
 
 [Urban Radiance Fields](https://arxiv.org/abs/2111.14643) <br> Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari <br> *CVPR, 2022* | [Project page](https://urban-radiance-fields.github.io/) | [Video](https://www.youtube.com/watch?v=B973fam8Bag)
+
+
+### Transparent objects
+
+[NeRFReN: Neural Radiance Fields with Reflections](https://arxiv.org/abs/2111.15234) <br> Yuan-Chen Guo, Di Kang, Linchao Bao, Yu He, Song-Hai Zhang <br> *Arxiv 2022* | [Project page](https://bennyguo.github.io/nerfren/) | [Video](https://www.youtube.com/watch?v=uZin1Ynk6SM)
+
+[Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects](https://arxiv.org/abs/2110.14217) <br> Jeffrey Ichnowski, Yahav Avigal, Justin Kerr, Ken Goldberg <br> *CoRL 2021* | [Project page](https://sites.google.com/view/dex-nerf) | [Unofficial implementation](https://github.com/salykovaa/instant-DexNerf)

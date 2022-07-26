@@ -24,6 +24,7 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
   - [Improved training speed](#improved-training-speed)
   - [Improved rendering speed](#improved-rendering-speed)
   - [Unknown camera poses](#unknown-camera-poses)
+  - [Object pose estimation](#object-pose-estimation)
   - [Unbounded, large-scale scenes](#unbounded-large-scale-scenes)
   - [Transparent objects](#transparent-objects)
 
@@ -117,6 +118,17 @@ Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
 [GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606) <br> Quan Meng, Anpei Chen, Haimin Luo, Minye Wu, Hao Su, Lan Xu, Xuming He, Jingyi Yu <br> *ICCV 2021* | [Github](https://github.com/quan-meng/gnerf)
 
 [NeRF--: Neural Radiance Fields Without Known Camera Parameters](https://arxiv.org/abs/2102.07064) <br> Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu <br> *Arxiv 2021* | [Project page](https://nerfmm.active.vision/) | [Github](https://github.com/ActiveVisionLab/nerfmm)
+
+
+### Object pose estimation
+
+[GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://arxiv.org/abs/2204.05735) <br> Shin-Fang Chng, Sameera Ramasinghe, Jamie Sherrah, Simon Lucey <br> *Arxiv 2022* | [Project page](https://sfchng.github.io/garf/) | [Github](https://github.com/sfchng/Gaussian-Activated-Radiance-Fields)
+
+[Nerfels: Renderable Neural Codes for Improved Camera Pose Estimation](https://arxiv.org/abs/2206.01916) <br> Gil Avraham, Julian Straub, Tianwei Shen, Tsun-Yi Yang, Hugo Germain, Chris Sweeney, Vasileios Balntas, David Novotny, Daniel DeTone, Richard Newcombe <br> *CVPR 2022*
+
+[NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation]([link_to_pdf](https://arxiv.org/abs/2203.04802)) <br> Fu Li, Hao Yu, Ivan Shugurov, Benjamin Busam, Shaowu Yang, Slobodan Ilic <br> *Arxiv 2022*
+
+[INeRF: Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/abs/2012.05877) <br> Lin Yen-Chen, Pete Florence, Jonathan T. Barron, Alberto Rodriguez, Phillip Isola, Tsung-Yi Lin <br> *IROS 2021* | [Project page](https://yenchenlin.me/inerf/) | [Github](https://github.com/yenchenlin/iNeRF-public) | [Video](https://www.youtube.com/watch?v=eQuCZaQN0tI)
 
 
 ### Unbounded, large-scale scenes
